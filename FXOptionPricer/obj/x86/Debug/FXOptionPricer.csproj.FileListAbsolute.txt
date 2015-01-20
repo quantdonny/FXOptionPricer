@@ -1,0 +1,41 @@
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.exe
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.pdb
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.MainView.resources
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.Properties.Resources.resources
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.csproj.GenerateResource.Cache
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.exe
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.pdb
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.csprojResolveAssemblyReference.cache
+c:\users\donny\documents\visual studio 2010\Projects\FXOptionPricer\FXOptionPricer\bin\Debug\ZedGraph.dll
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.exe
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.pdb
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.csprojResolveAssemblyReference.cache
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.MainView.resources
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.Properties.Resources.resources
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.csproj.GenerateResource.Cache
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.exe
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.pdb
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\ZedGraph.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.exe
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.pdb
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.exe
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.pdb
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\ZedGraph.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.csprojResolveAssemblyReference.cache
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.MainView.resources
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.Properties.Resources.resources
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Debug\FXOptionPricer.csproj.GenerateResource.Cache
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\Accord.dll
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\Accord.Math.dll
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\Accord.Statistics.dll
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\AForge.dll
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\AForge.Math.dll
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\AForge.Math.xml
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.exe.config
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\FXOptionPricer.exe.config
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\Accord.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\Accord.Math.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\Accord.Statistics.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\AForge.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\AForge.Math.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Debug\AForge.Math.xml

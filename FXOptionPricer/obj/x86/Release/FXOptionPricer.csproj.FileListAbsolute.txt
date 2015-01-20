@@ -1,0 +1,17 @@
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\FXOptionPricer.exe.config
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\FXOptionPricer.exe
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\FXOptionPricer.pdb
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\Accord.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\Accord.Math.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\Accord.Statistics.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\AForge.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\ZedGraph.dll
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.csprojResolveAssemblyReference.cache
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.MainView.resources
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.Properties.Resources.resources
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.csproj.GenerateResource.Cache
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.exe
+C:\Users\Donny\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.pdb
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\bin\Release\FXOptionPricer.exe.config
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.exe
+C:\Users\donnylee\Dropbox\FXOptionPricer\FXOptionPricer\obj\x86\Release\FXOptionPricer.pdb
